@@ -1,7 +1,6 @@
 # Time-Series-Modelling
 
 # LSTM
-Stock-Price-Prediction---Univariate-Time-Series-Forcasting
 
 In this project, I have implemented a 4 hidden layer stacked LSTM RNN architecture to solve the univariate time series forcasting problem of google stock price prediction using pytorch deep learning library.
 
