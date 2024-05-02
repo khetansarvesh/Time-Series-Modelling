@@ -7,7 +7,7 @@ In my notes I have given a detailed explaination of how one can solve the univar
 
 # LSTM
 
-I have implemented a 4 hidden layer stacked LSTM RNN architecture to solve the univariate time series forcasting problem of google stock price prediction using pytorch deep learning library.
+4 hidden layer stacked LSTM RNN architecture to solve the univariate time series forcasting problem of google stock price prediction using pytorch deep learning library.
 
 
 # Transformer-Encoder
