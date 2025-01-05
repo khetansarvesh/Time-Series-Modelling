@@ -32,8 +32,6 @@ We can make forecast of tomorrow’s weather by observing the weather of past fe
     - Bidirectional Gated RNN Model - Bidirectional 
     - Transformer Encoder Model - Bidirectional 
     - Transformer Decoder Model - Unidirectional
-    - [July 2023] [Retentive Network (RetNet) - Decoder Model](https://www.youtube.com/watch?v=C6Hi5UkXJhs&ab_channel=DataScienceGems)
-    - [Dec 2023] [Mamba Model](https://www.youtube.com/watch?v=8Q_tqwpTpVU)
 
 
 In my notes I have given a detailed explaination of how one can solve the univariate time series problem using even a FFNN but since there exists a problem in solving with FFNN it motivated the idea of RNN, what is this problem?? Read my notes to understand same. Now there exists a problem with RNN i.e. vanishing and exploding gradients which motivates the idea of LSTMs and since these exists a problem with LSTMs it motivated the idea of GRUs. To solve the parallel computation problem with GRUs the idea of transformer based models poped up.
