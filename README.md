@@ -10,13 +10,13 @@
 
 ### 1. Overall Trend
 There are many algorithms which can help you decode overall trend present in the time series data 
-a. Multiple Linear Regression
-b. Vector AutoRegression (VAR)
-c. VARX - (same as var but in var we had only single order of  lag but here we can specify our own order of lags.No of lags is decided by acf and pacf plot)
-d. VARMAX
-e. VMA
-f. ARIMAX
-g. Deep Learning 
+- Multiple Linear Regression
+- Vector AutoRegression (VAR)
+- VARX - (same as var but in var we had only single order of  lag but here we can specify our own order of lags.No of lags is decided by acf and pacf plot)
+- VARMAX
+- VMA
+- ARIMAX
+- Deep Learning
     - FFNN
     - RNN
     - LSTM
