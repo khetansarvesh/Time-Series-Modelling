@@ -1,6 +1,6 @@
 Time series modelling usually deals with regression task on time series based dataset, below we will see algorithms to do this!!
 
-# <ins> Univariate Time-Series-Modelling (1 feature dataset) </ins>
+# <ins> Univariate Time-Series-Forecasting (1 feature dataset) </ins>
 There are many types of trend that you can figure out from the data, namely Overall Trend / Seasonal Trend / Cyclical Trend / Irregular Trend
 ### 1. Overall Trend
 
@@ -19,7 +19,7 @@ These include algorithms like
 - [Ratio to Trend](https://github.com/khetansarvesh/Time-Series-Modelling/blob/main/seasonal_trend/Ratio%20To%20Trend.pdf)
 
 
-# <ins> Multivariate Time-Series-Modelling (>1 feature dataset) </ins>
+# <ins> Multivariate Time-Series-Forecasting (>1 feature dataset) </ins>
 Like Univariate Analysis here also we can have algorithms for different types of trend, we will look more closely at finding out <ins> overall trend </ins> in the data. There are many algorithms which can help you decode overall trend present in the time series data :
 - Multiple Linear Regression
 - Vector AutoRegression (VAR)
