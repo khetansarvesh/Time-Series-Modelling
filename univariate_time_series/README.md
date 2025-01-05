@@ -8,7 +8,8 @@ These are also called sequential models because we are using them to solve a seq
 
 <ins> Temporal Dependence Models </ins> : We can make forecast of tomorrow’s weather by observing the weather of past few days. If the weather was sunny for last 4–5 days then there is high chance for weather to be sunny tomorrow. This is an intuitive way of understanding temporal dependence model. The correlation between past and present values shows temporal dependence. In this model, we give heavy weights to recent data than the older data points
 
-- Least Squares
+- [Least Squares Model](https://github.com/khetansarvesh/Time-Series-Modelling/blob/main/univariate_time_series/Least%20Squares%20Model.pdf)
+- [Method of Semi Averages](https://github.com/khetansarvesh/Time-Series-Modelling/blob/main/univariate_time_series/Semi%20Average%20Model.pdf)
 - Auto Regression (AR)
 - Moving Average (MA)
 - Auto Regressive Moving Average (ARMA)
@@ -31,8 +32,8 @@ These are also called sequential models because we are using them to solve a seq
 
 # 2. Seasonal Trend : Decoding short term trends in univariate time series data
 These include algorithms like 
-- [Method of Simple Average](https://github.com/khetansarvesh/Time-Series-Modelling/blob/main/seasonal_trend/Simple%20Average.pdf)
-- [Ratio to Trend Method](https://github.com/khetansarvesh/Time-Series-Modelling/blob/main/seasonal_trend/Ratio%20To%20Trend.pdf)
+- [Method of Simple Average](https://github.com/khetansarvesh/Time-Series-Modelling/blob/main/univariate_time_series/seasonal_trend/Simple%20Average.pdf)
+- [Ratio to Trend Method](https://github.com/khetansarvesh/Time-Series-Modelling/blob/main/univariate_time_series/seasonal_trend/Ratio%20To%20Trend.pdf)
 - Ratio To Moving Average Method
 - Link Relatives Method
 - SARIMA (Seasonal Arima)
