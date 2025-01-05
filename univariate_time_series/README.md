@@ -18,21 +18,6 @@ We can make forecast of tomorrow’s weather by observing the weather of past fe
 - AUTO ARIMA Model
 - SARIMA Model
 - Deep Learning (DL) Models
-    - FFNN Model
-    - 1D CNN Model
-    - Hidden Markov Models (HMM)
-    - Conditional Random Fields (CRF)
-    - Recursive Neural Network (RvNN) Model
-    - [1990s] Recurrent Neural Network (RNN) Model - Unidirectional
-    - Bidirectional RNN Model - Bidirectional
-    - [1997] LSTM RNN Model - Unidirectional
-    - Bidirectional LSTM RNN Model - Bidirectional
-      - LSTM => 4 hidden layer stacked LSTM RNN architecture to solve the univariate time series forcasting problem of google stock price prediction using pytorch deep learning library.
-    - [2014] Gated RNN Model - Unidirectional
-    - Bidirectional Gated RNN Model - Bidirectional 
-    - Transformer Encoder Model - Bidirectional 
-    - Transformer Decoder Model - Unidirectional
-
 
 In my notes I have given a detailed explaination of how one can solve the univariate time series problem using even a FFNN but since there exists a problem in solving with FFNN it motivated the idea of RNN, what is this problem?? Read my notes to understand same. Now there exists a problem with RNN i.e. vanishing and exploding gradients which motivates the idea of LSTMs and since these exists a problem with LSTMs it motivated the idea of GRUs. To solve the parallel computation problem with GRUs the idea of transformer based models poped up.
 
