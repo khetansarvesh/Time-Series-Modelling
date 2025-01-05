@@ -7,7 +7,7 @@ There are many types of trend that you can figure out from the data, namely Over
 <ins> Temporal Dependence Models </ins> : We can make forecast of tomorrow’s weather by observing the weather of past few days. If the weather was sunny for last 4–5 days then there is high chance for weather to be sunny tomorrow. This is an intuitive way of understanding temporal dependence model. The correlation between past and present values shows temporal dependence. In this model, we give heavy weights to recent data than the older data points
 
 - [Method of Semi Averages](https://github.com/khetansarvesh/Time-Series-Modelling/blob/main/univariate_time_series/Semi%20Average%20Model.pdf)
-- Moving Average (MA) Model
+- [Moving Average (MA) Model](https://github.com/khetansarvesh/Time-Series-Modelling/blob/main/univariate_time_series/MA.pdf)
 - [Least Squares Model](https://github.com/khetansarvesh/Time-Series-Modelling/blob/main/univariate_time_series/Least%20Squares%20Model.pdf)
 - Auto Regression (AR)
 - Auto Regressive Moving Average (ARMA)
