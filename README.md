@@ -9,5 +9,5 @@ Here we don’t do train validation test split , we didn't  train validation spl
 
 Time series modelling usually deals with regression task on time series based dataset, below we will see algorithms to do this!!
 
-1. <ins> Univariate Time-Series-Forecasting (1 feature dataset) </ins>
-2. <ins> Multivariate Time-Series-Forecasting (>1 feature dataset) </ins>
+1. [<ins> Univariate Time-Series-Forecasting (1 feature dataset) </ins>](https://github.com/khetansarvesh/Time-Series-Modelling/tree/main/univariate_time_series)
+2. [<ins> Multivariate Time-Series-Forecasting (>1 feature dataset) </ins>](https://github.com/khetansarvesh/Time-Series-Modelling/tree/main/multivariate_time_series)
