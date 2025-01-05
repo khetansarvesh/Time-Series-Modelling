@@ -23,7 +23,7 @@ There are many types of trend that you can figure out from the data, namely Over
 
 <ins> General Additive Model (GAM) </ins> : Instead of using correlation between values from similar time stamps, we can train our model on overall trends and add some seasonal effect to it. The principle behind GAM is similar to that of regression model. Unlike regression which uses individual predictor for outcome, GAM uses sum of smooth function to predict the outcome. The smooth functions here includes functions describing trend component, seasonal component, holiday component and so on. As GAM comprises of functions, we can isolate the individual function and evaluate its effect in prediction, which makes GAM more interpretable.
 
-- FBProphet
+- [FBProphet](https://www.youtube.com/watch?v=09tg5fU4T6A)
 
 
 
