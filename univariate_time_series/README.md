@@ -17,7 +17,7 @@ We can make forecast of tomorrow’s weather by observing the weather of past fe
   - If data doesn’t satisfy the above conditions, lets say, if we have a data points that has a upward trend, then to use ARIMA we first need to apply transformation on it, and make it stationary 
 - AUTO ARIMA Model
 - SARIMA Model
-- Deep Learning (DL) Models
+- [Deep Learning (DL) Models](https://khetansarvesh.medium.com/deep-learning-for-time-series-forecasting-ff5c8bf35134)
 
 ### [1.2] <ins> General Additive Model (GAM) </ins>
 Instead of using correlation between values from similar time stamps, we can train our model on overall trends and add some seasonal effect to it. The principle behind GAM is similar to that of regression model. Unlike regression which uses individual predictor for outcome, GAM uses sum of smooth function to predict the outcome. The smooth functions here includes functions describing trend component, seasonal component, holiday component and so on. As GAM comprises of functions, we can isolate the individual function and evaluate its effect in prediction, which makes GAM more interpretable.
