@@ -1,3 +1,5 @@
+Time series modelling usually deals with regression task on time series based dataset, below we will see algorithms to do this!!
+
 # <ins> Univariate Time-Series-Modelling </ins>
 ### 1. Overall Trend
 ### 2. Seasonal Trend
