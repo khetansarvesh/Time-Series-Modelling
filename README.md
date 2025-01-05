@@ -2,8 +2,14 @@ Time series modelling usually deals with regression task on time series based da
 
 # <ins> Univariate Time-Series-Modelling </ins>
 ### 1. Overall Trend
+
 ### 2. Seasonal Trend
+These include algorithms like 
+- Simple Average
+- Ratio to Trend
+
 ### 3. Cyclic Trend
+
 ### 4. Irregular Trend
 
 # <ins> Multivariate Time-Series-Modelling </ins>
