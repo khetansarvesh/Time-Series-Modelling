@@ -4,8 +4,6 @@ There are many types of trend that you can figure out from the data, namely Over
 
 # 1. Overall Trend
 
-These are also called sequential models because we are using them to solve a sequential problem. Whichever algorithm gives the best predictive results is considered and evaluation metrics remain the same as what we discussed in the cross sectional data regression problem. 
-
 <ins> Temporal Dependence Models </ins> : We can make forecast of tomorrow’s weather by observing the weather of past few days. If the weather was sunny for last 4–5 days then there is high chance for weather to be sunny tomorrow. This is an intuitive way of understanding temporal dependence model. The correlation between past and present values shows temporal dependence. In this model, we give heavy weights to recent data than the older data points
 
 - [Least Squares Model](https://github.com/khetansarvesh/Time-Series-Modelling/blob/main/univariate_time_series/Least%20Squares%20Model.pdf)
