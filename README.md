@@ -1,12 +1,10 @@
-# Time-Series-Modelling
-
-# <ins> Univariate Time Series Analysis </ins>
+# <ins> Univariate Time-Series-Modelling </ins>
 ### 1. Overall Trend
 ### 2. Seasonal Trend
 ### 3. Cyclic Trend
 ### 4. Irregular Trend
 
-# <ins> Multivariate Time Series Analysis </ins>
+# <ins> Multivariate Time-Series-Modelling </ins>
 
 ### 1. Overall Trend
 There are many algorithms which can help you decode overall trend present in the time series data 
