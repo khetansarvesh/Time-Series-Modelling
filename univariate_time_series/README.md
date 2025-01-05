@@ -10,7 +10,7 @@ There are many types of trend that you can figure out from the data, namely Over
 - [Moving Average (MA) Model](https://github.com/khetansarvesh/Time-Series-Modelling/blob/main/univariate_time_series/MA.pdf)
 - [Least Squares Model](https://github.com/khetansarvesh/Time-Series-Modelling/blob/main/univariate_time_series/Least%20Squares%20Model.pdf)
 - Auto Regression (AR)
-- Auto Regressive Moving Average (ARMA)
+- [Auto Regressive Moving Average (ARMA)](https://www.youtube.com/watch?v=8t11SmVD8dU)
 - Auto Regressive integrated Moving Average (ARIMA)
 - AUTO ARIMA
 - SARIMA
