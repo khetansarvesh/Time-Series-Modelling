@@ -12,7 +12,8 @@ There are many types of trend that you can figure out from the data, namely Over
 - [Auto Regression (AR) Model](https://www.youtube.com/watch?v=Ia9irWcWt8s)
 - [Auto Regressive Moving Average (ARMA) Model](https://www.youtube.com/watch?v=8t11SmVD8dU)
 - [Auto Regressive integrated Moving Average (ARIMA) Model](https://www.youtube.com/watch?v=8FCDpFhd1zk)
-  - ARIMA requires data to have constant mean and variance with no seasonality. If data doesn’t satisfy the above conditions, lets say, if we have a data points that has a upward trend, then to use ARIMA we first need to apply transformation on it, and make it stationary 
+  - ARIMA requires data to have constant mean and variance with no seasonality.
+  - If data doesn’t satisfy the above conditions, lets say, if we have a data points that has a upward trend, then to use ARIMA we first need to apply transformation on it, and make it stationary 
 - AUTO ARIMA Model
 - SARIMA Model
 - Deep Learning (DL) Models
