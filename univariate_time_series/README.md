@@ -24,10 +24,10 @@ There are many types of trend that you can figure out from the data, namely Over
     - Recursive Neural Network (RvNN) Model
     - [1990s] Recurrent Neural Network (RNN) Model - Unidirectional
     - Bidirectional RNN Model - Bidirectional
-    - LSTM RNN Model (1997) - Unidirectional
+    - [1997] LSTM RNN Model - Unidirectional
     - Bidirectional LSTM RNN Model - Bidirectional
       - LSTM => 4 hidden layer stacked LSTM RNN architecture to solve the univariate time series forcasting problem of google stock price prediction using pytorch deep learning library.
-    - Gated RNN Model (2014) - Unidirectional
+    - [2014] Gated RNN Model - Unidirectional
     - Bidirectional Gated RNN Model - Bidirectional 
     - Transformer Encoder Model - Bidirectional 
     - Transformer Decoder Model - Unidirectional
