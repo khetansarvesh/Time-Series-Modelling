@@ -9,12 +9,12 @@ There are many types of trend that you can figure out from the data, namely Over
 - [Method of Semi Averages](https://github.com/khetansarvesh/Time-Series-Modelling/blob/main/univariate_time_series/Semi%20Average%20Model.pdf)
 - [Moving Average (MA) Model](https://github.com/khetansarvesh/Time-Series-Modelling/blob/main/univariate_time_series/MA.pdf)
 - [Least Squares Model](https://github.com/khetansarvesh/Time-Series-Modelling/blob/main/univariate_time_series/Least%20Squares%20Model.pdf)
-- Auto Regression (AR)
-- [Auto Regressive Moving Average (ARMA)](https://www.youtube.com/watch?v=8t11SmVD8dU)
-- Auto Regressive integrated Moving Average (ARIMA)
-- AUTO ARIMA
-- SARIMA
-- Deep Learning (DL)
+- Auto Regression (AR) Model
+- [Auto Regressive Moving Average (ARMA) Model](https://www.youtube.com/watch?v=8t11SmVD8dU)
+- Auto Regressive integrated Moving Average (ARIMA) Model
+- AUTO ARIMA Model
+- SARIMA Model
+- Deep Learning (DL) Models
     - FFNN
     - RNN
     - LSTM => 4 hidden layer stacked LSTM RNN architecture to solve the univariate time series forcasting problem of google stock price prediction using pytorch deep learning library.
