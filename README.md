@@ -8,3 +8,5 @@ Time series modelling usually deals with regression task on time series based da
 
 1. [<ins> Univariate Time-Series-Forecasting (1 feature dataset) </ins>](https://github.com/khetansarvesh/Time-Series-Modelling/tree/main/univariate_time_series)
 2. [<ins> Multivariate Time-Series-Forecasting (>1 feature dataset) </ins>](https://github.com/khetansarvesh/Time-Series-Modelling/tree/main/multivariate_time_series)
+
+These are also called sequential models because we are using them to solve a sequential problem.
