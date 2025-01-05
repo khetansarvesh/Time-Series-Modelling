@@ -13,10 +13,14 @@ LSTM => 4 hidden layer stacked LSTM RNN architecture to solve the univariate tim
 
 
 
-### 2. Seasonal Trend
+### 2. Seasonal Trend : Decoding short term trends in univariate time series data
 These include algorithms like 
-- [Simple Average](https://github.com/khetansarvesh/Time-Series-Modelling/blob/main/seasonal_trend/Simple%20Average.pdf)
-- [Ratio to Trend](https://github.com/khetansarvesh/Time-Series-Modelling/blob/main/seasonal_trend/Ratio%20To%20Trend.pdf)
+- [Method of Simple Average](https://github.com/khetansarvesh/Time-Series-Modelling/blob/main/seasonal_trend/Simple%20Average.pdf)
+- [Ratio to Trend Method](https://github.com/khetansarvesh/Time-Series-Modelling/blob/main/seasonal_trend/Ratio%20To%20Trend.pdf)
+- Ratio To Moving Average Method
+- Link Relatives Method
+- SARIMA (Seasonal Arima)
+
 
 
 # <ins> Multivariate Time-Series-Forecasting (>1 feature dataset) </ins>
